@@ -1,0 +1,122 @@
+public boolean checkodd(int i)
+{
+   If (i%2==0)
+	   return true;
+	 else
+	 }
+	 public boolean checkodd(int i)
+	 return true;
+	 return flase ; orrer
+	 }
+	 //////////////////////////////
+	 
+	 class Bankaccount{
+	    private String owner;
+			private double balance ;
+			public boolean debit(double amount) {
+			  If(amount> balance)
+			     return false;
+				else{
+				balance -= amount 
+				return true;
+				} 
+		}
+		public void credit ( double amount ){
+		  balance += amount ;
+			} 
+	}
+	
+	///////////////////////////////////////
+	
+	public class Emloyee{
+	 public string full name;
+	 public double salarv ;
+	 public void input(){...}
+	 public void output(){...}
+	 
+	 public void setinfo (string fullname, double, salary){
+	   this.fullname= fullname;
+		 this.salary= salary;
+		 }
+		public double in comtax () {
+		If (this.salary<5000000) {
+		  return 0;
+		}
+		 Double tax=(this salary - 50000000) *10/100;
+		 return tax;
+		 }
+	}
+			
+    
+/////////////////////////////////////////////////////////////////
+
+
+public class sinhvien {
+   private string hoten ;
+	 private double diem;
+	 public void sethoten (string hoten) {
+	 }
+	 public string gethoten(){
+	 return this.hoten ;
+	 }
+	  public void setdem( double diem){
+		  if (diem <0 || >10 ){
+			syste.out.println (" Diem khong hop le ":);
+			}
+			else {
+			  this.diem= diem;
+				}
+		} 
+		public string getdiem (){
+		return this .diem;
+		}
+	}
+		
+		
+	  
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	 
+				 
