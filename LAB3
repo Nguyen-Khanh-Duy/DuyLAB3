@@ -1,0 +1,39 @@
+public class mainclass()
+   private final float pi= 3.14f;
+   private float bk ;
+   private float cv;
+   private float dt;
+   pritave float canh;
+public static void main (tring [] args ){
+   HinhTron hinhTron = new HinhTron ();
+   HinhVuong hinhvuong = new HinhVuong ();
+  }
+  pubic setHinhTron(float bk){
+    this. bk= bk
+    }
+  pulic setHInhVuong(float canh)
+  this.canh=canh;
+    
+    }
+  public float getcv() {
+    return cv;
+    }
+   public float getdt (){
+    return dt;
+    }
+   public void tinhcv (){
+    cv=2*pi*bk;
+    cv=canh*4;
+    }
+    public void tinhdt(){
+    dt= pi*bk*bk;
+    dt=canh*canh;
+    }
+   }
+    
+   
+ 
+    
+   
+   
+   
